@@ -1,1 +1,2 @@
-# C-21-WHJ-
+# collisionAlgorithm
+Algorithm to detect collision between two objects
